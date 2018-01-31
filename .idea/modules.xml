@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootLearning.iml" filepath="$PROJECT_DIR$/SpringBootLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbootfirstapplication/springbootfirstapplication.iml" filepath="$PROJECT_DIR$/springbootfirstapplication/springbootfirstapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_firstapplication/springboot_01_firstapplication.iml" filepath="$PROJECT_DIR$/springboot_01_firstapplication/springboot_01_firstapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_config/springboot_02_config.iml" filepath="$PROJECT_DIR$/springboot_02_config/springboot_02_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_03_jdbc/springboot_03_jdbc.iml" filepath="$PROJECT_DIR$/springboot_03_jdbc/springboot_03_jdbc.iml" />
     </modules>
   </component>
 </project>

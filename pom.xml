@@ -8,8 +8,11 @@
     <artifactId>SpringBootLearning</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
-        <module>springbootfirstapplication</module>
+        <module>springboot_01_firstapplication</module>
+        <module>springboot_02_config</module>
+        <module>springboot_03_jdbc</module>
     </modules>
 
     <parent>
