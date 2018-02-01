@@ -13,6 +13,7 @@
         <module>springboot_01_firstapplication</module>
         <module>springboot_02_config</module>
         <module>springboot_03_jdbc</module>
+        <module>springboot_04_jpa</module>
     </modules>
 
     <parent>

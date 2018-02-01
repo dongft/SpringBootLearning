@@ -1,0 +1,66 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.dft.bean.User",
+      "name": "com.dft",
+      "type": "com.dft.bean.User"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "name": "my",
+      "type": "com.dft.bean.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.dft.bean.User",
+      "defaultValue": 0,
+      "name": "com.dft.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.dft.bean.User",
+      "name": "com.dft.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "defaultValue": 0,
+      "name": "my.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "name": "my.greeting",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "defaultValue": 0,
+      "name": "my.max",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "name": "my.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "defaultValue": 0,
+      "name": "my.number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "name": "my.uuid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dft.bean.ConfigBean",
+      "name": "my.value",
+      "type": "java.lang.String"
+    }
+  ]
+}
