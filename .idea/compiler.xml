@@ -10,6 +10,7 @@
         <module name="springboot_02_config" />
         <module name="springboot_03_jdbc" />
         <module name="springboot_04_jpa" />
+        <module name="springboot_06_mybatis" />
         <module name="springboot_config" />
         <module name="springboot_jdbc" />
         <module name="springbootfirstapplication" />
@@ -20,6 +21,7 @@
       <module name="springboot_02_config" target="1.8" />
       <module name="springboot_03_jdbc" target="1.8" />
       <module name="springboot_04_jpa" target="1.8" />
+      <module name="springboot_06_mybatis" target="1.8" />
       <module name="springboot_config" target="1.8" />
       <module name="springboot_jdbc" target="1.8" />
       <module name="springbootfirstapplication" target="1.8" />

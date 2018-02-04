@@ -14,6 +14,7 @@
         <module>springboot_02_config</module>
         <module>springboot_03_jdbc</module>
         <module>springboot_04_jpa</module>
+        <module>springboot_06_mybatis</module>
     </modules>
 
     <parent>
@@ -39,6 +40,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.1.6</version>
         </dependency>
     </dependencies>
 
