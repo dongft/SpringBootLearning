@@ -15,6 +15,7 @@
         <module>springboot_03_jdbc</module>
         <module>springboot_04_jpa</module>
         <module>springboot_06_mybatis</module>
+        <module>springboot_07_transaction</module>
     </modules>
 
     <parent>
