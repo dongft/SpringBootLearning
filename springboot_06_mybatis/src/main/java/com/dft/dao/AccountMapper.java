@@ -22,6 +22,9 @@ public interface AccountMapper {
     int updateAccount(@Param("id") int id, @Param("name") String name, @Param("money") double
             money);
 
+    @Update("update account set money=#{money} where id = #{id}")
+    int update(@Param("id") int id, @Param("money") double money);
+
     @Delete("delete from account where id = #{id}")
     int deleteAccountById(@Param("id") int id);
 }

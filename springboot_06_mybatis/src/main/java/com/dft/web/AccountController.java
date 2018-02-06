@@ -27,7 +27,7 @@ public class AccountController {
     @RequestMapping(value = "/{id}", method = RequestMethod.PUT)
     public String updateAccount(@PathVariable("id") int id, @RequestParam("name") String name,
                                  @RequestParam("money") double money) {
-        int result = accountService.update(id, name, money);
+        int result = accountService.updateAccount(id, name, money);
         if (result == 1) {
             return "success";
         } else {
@@ -54,5 +54,10 @@ public class AccountController {
         } else {
             return "fail";
         }
+    }
+
+    @RequestMapping(value = "/transfer", method = RequestMethod.GET)
+    public void transfer() {
+        accountService.transfer();
     }
 }
