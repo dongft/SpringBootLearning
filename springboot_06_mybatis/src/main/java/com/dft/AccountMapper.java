@@ -1,4 +1,4 @@
-package com.dft.dao;
+package com.dft;
 
 import com.dft.entity.Account;
 import org.apache.ibatis.annotations.*;

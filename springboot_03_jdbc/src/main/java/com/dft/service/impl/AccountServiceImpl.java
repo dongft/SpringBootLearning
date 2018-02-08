@@ -1,6 +1,6 @@
 package com.dft.service.impl;
 
-import com.dft.dao.AccountDAO;
+import com.dft.AccountDAO;
 import com.dft.entity.Account;
 import com.dft.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
