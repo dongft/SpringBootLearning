@@ -15,7 +15,8 @@
         <module>springboot_03_jdbc</module>
         <module>springboot_04_jpa</module>
         <module>springboot_06_mybatis</module>
-        <module>springboot_07_transaction</module>
+        <module>springboot_09_redis</module>
+        <module>springboot_11_swagger</module>
     </modules>
 
     <parent>
