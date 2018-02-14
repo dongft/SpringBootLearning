@@ -14,6 +14,8 @@
         <module name="springboot_09_mybatis" />
         <module name="springboot_09_redis" />
         <module name="springboot_11_swagger" />
+        <module name="springboot_13_springcache" />
+        <module name="springboot_14_redis_message" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +26,8 @@
       <module name="springboot_06_mybatis" target="1.8" />
       <module name="springboot_09_redis" target="1.8" />
       <module name="springboot_11_swagger" target="1.8" />
+      <module name="springboot_13_springcache" target="1.8" />
+      <module name="springboot_14_redis_message" target="1.8" />
       <module name="SpringBootLearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>

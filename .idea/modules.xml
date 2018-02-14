@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_06_mybatis/springboot_06_mybatis.iml" filepath="$PROJECT_DIR$/springboot_06_mybatis/springboot_06_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_09_redis/springboot_09_redis.iml" filepath="$PROJECT_DIR$/springboot_09_redis/springboot_09_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_11_swagger/springboot_11_swagger.iml" filepath="$PROJECT_DIR$/springboot_11_swagger/springboot_11_swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_13_springcache/springboot_13_springcache.iml" filepath="$PROJECT_DIR$/springboot_13_springcache/springboot_13_springcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_14_redis_message/springboot_14_redis_message.iml" filepath="$PROJECT_DIR$/springboot_14_redis_message/springboot_14_redis_message.iml" />
     </modules>
   </component>
 </project>

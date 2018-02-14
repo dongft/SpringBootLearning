@@ -17,6 +17,8 @@
         <module>springboot_06_mybatis</module>
         <module>springboot_09_redis</module>
         <module>springboot_11_swagger</module>
+        <module>springboot_13_springcache</module>
+        <module>springboot_14_redis_message</module>
     </modules>
 
     <parent>
