@@ -11,5 +11,6 @@
     <file url="file://$PROJECT_DIR$/springboot_11_swagger" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_13_springcache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_14_redis_message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_15_rabbitmq" charset="UTF-8" />
   </component>
 </project>

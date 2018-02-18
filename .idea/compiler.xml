@@ -28,6 +28,7 @@
       <module name="springboot_11_swagger" target="1.8" />
       <module name="springboot_13_springcache" target="1.8" />
       <module name="springboot_14_redis_message" target="1.8" />
+      <module name="springboot_15_rabbitmq" target="1.8" />
       <module name="SpringBootLearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>

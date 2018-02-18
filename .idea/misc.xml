@@ -12,6 +12,7 @@
       <set>
         <option value="$PROJECT_DIR$/springboot_07_transaction/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_10_restdoc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_15_rabbitmq/pom.xml" />
       </set>
     </option>
   </component>
