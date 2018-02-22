@@ -1,0 +1,3 @@
+FROM frolvlad/alpine-oraclejdk:slim
+VOLUME /tmp
+ADD springboot_24_with_docker-1.0-SNAPSHOT.jar

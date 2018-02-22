@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.dft.service.ServiceProperties",
+      "name": "service",
+      "type": "com.dft.service.ServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.dft.service.ServiceProperties",
+      "name": "service.message",
+      "description": "A message for the service.",
+      "type": "java.lang.String"
+    }
+  ]
+}
