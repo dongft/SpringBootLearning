@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot_11_swagger
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Dongft
+Implementation-Vendor-Id: com.dft
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootLe
+ arning/springboot_11_swagger/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
