@@ -1,6 +1,6 @@
 package com.dft.web;
 
-import com.dft.dao.AccountDAO;
+import com.dft.AccountDAO;
 import com.dft.entity.Account;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

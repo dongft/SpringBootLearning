@@ -15,6 +15,10 @@
         <module>springboot_03_jdbc</module>
         <module>springboot_04_jpa</module>
         <module>springboot_06_mybatis</module>
+        <module>springboot_09_redis</module>
+        <module>springboot_11_swagger</module>
+        <module>springboot_13_springcache</module>
+        <module>springboot_14_redis_message</module>
     </modules>
 
     <parent>
@@ -45,6 +49,15 @@
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
             <version>1.1.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>1.3.0</version>
         </dependency>
     </dependencies>
 
